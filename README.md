@@ -76,5 +76,5 @@ It also allows for anonymity wherever required.
 10.	Once a new transaction or a block is added, he broadcasts the chain to the network which alerts the nodes to update their chain.
 
 
-* This program only takes a text file which has charecters and spaces, but not line breaks.
+* *This program only takes a text file which has charecters and spaces, but not line breaks.
 So a few sample text files are included to verify.
