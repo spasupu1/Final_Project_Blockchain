@@ -1,9 +1,9 @@
-##Welcome to Research Flow
+# Welcome to Research Flow
 
 A transparent, open, secure and hack proof Blockchain messenger.
 
 
-###What is BlockChain?
+### What is BlockChain?
 ```
 As the name suggests, blockchain is a chain of blocks which stores the data in a decentralised and self regulatory way.
 One can open, share, sign  and verify data without the need of any centralised authority.
@@ -22,36 +22,36 @@ This update is then broadcasted to the network for other miners to update their 
 As the data is decentralised and all the miners have the data, it is is very unlikely to modify data.
 
 
-###Problems in the scholastic community?
+### Problems in the scholastic community?
 
 Research on different aspects is being conducted around the world and communications plays an important role in exchange of ideas, data and also the results.
 Currently this exchange of data is not being done properly and is getting modified or manipulated before reaching the next person.
 A few problems with the scholastic communication are:
 
-####Reproducability:
+#### Reproducability:
 Due to the pressure on researchers to publish, they are more inclined to produce positive results, manipulating some of the data and also using fussy protocols to produce results faster.
 Other researchers are unable to reproduce this data because of the above cases.
 
-####Journal business:
+#### Journal business:
 Journals are the primary vehicles to broadcast your research to the world.
 They have a lot of bias towards accepting manuscripts and encourage only positive and novel results to maintain their reputation and status amongst other journals.
 This even makes researchers to ignore the failed data which is actually important .
 This makes the other researchers to perform the same failed experiments as no one reported that this experiment can fail.
 
-####Peer review:
+#### Peer review:
 Journals base their interest to accept of decline a manuscript based on peer review which is an expensive, biased process.
 Peer researchers may or may not have expertise in the field of the manuscript and may give an incomplete review or get biased towards a few researchers.
 
-####Hype on certain area or field:
+#### Hype on certain area or field:
 With time to time, there will be a heightened interest on certain topics which is luring researchers to work only on it for increasing their reputation and attracting top tier journals.
 
-####Open Access:
+#### Open Access:
 A few journals have the concept of open access to the papers but the researcher has to pay a huge sum to make their research reach the masses.
 
 These all problems lead to the success of the websites like Sci-hub which has over 60 million research articles to download infringing the copyrights of the publishers.
 
 
-###How Blockchain helps?
+### How Blockchain helps?
 
 Blockchain has the capability to make research more transparent, open, accessible and secure.
 A researcher can share his data with whomsoever he wants and his transaction is secure in the blockchain.
@@ -62,7 +62,7 @@ Thus blockchain builds trust, universal access and also credit to your work.
 It also allows for anonymity wherever required.
 
 
-###How my program works:
+### How my program works:
 1.	The program registers the user into the database.
 
 2.	After logging in he can make a new transaction, view his transactions and the messages he received from other users.
